@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<body>
+
+<head>
+	<link rel="stylesheet" href="{{ 
+		url_for('static', filename='styles/home_style.css') }}">
+</head>
+
+<script src="{{ 
+	url_for('static', filename='js/chatbot.js') }}"></script>
+
+<h2>ChattyBot</h2>
+
+<div id = "console">
+        <p id = "consoletext"> <br/>
+			BOT: Hi there, nice to meet you. Unfortunately, I am currently on maintenance at the moment. Please come back next time.
+        </p>
+		<p id = "inputarea">
+			>> <textarea rows = "1" label='textInput' id = "textinput" onkeydown = "checkInput();"></textarea>
+		</p>
+</div>
+
+</body>
+</html>

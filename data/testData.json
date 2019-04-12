@@ -1,0 +1,256 @@
+﻿{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "hey, good day",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "howdy, good to meet you",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello, pleasure to meet you",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi, nice to meet you",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "yes, that is correct",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "yep, that's right",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "yeah, that is true",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "bye bye",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "goodbye, see you later",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "good bye, I will see you again",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "stop",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "end",
+        "intent": "goodbye",
+        "entities": []
+      },
+      {
+        "text": "indeed",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "that's right",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "ok",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "great, that's good to hear",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "no, that is incorrect",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "not really",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "can you tell me what it's about?",
+        "intent": "summarize",
+        "entities": []
+      },
+      {
+        "text": "can you summarize it?",
+        "intent": "summarize",
+        "entities": []
+      },
+      {
+        "text": "tell me about it",
+        "intent": "summarize",
+        "entities": []
+      },
+      {
+        "text": "yes i believe it is true",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "nope, that's not true",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "tell me about the story",
+        "intent": "summarize",
+        "entities": []
+      },
+      {
+        "text": "nope, incorrect",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "no",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "affirm",
+        "entities": []
+      },
+      {
+        "text": "hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "nope",
+        "intent": "deny",
+        "entities": []
+      },
+      {
+        "text": "show me what it's about",
+        "intent": "summarize",
+        "entities": []
+      },
+      {
+        "text": "Long time no see",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "It's been a while",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Nice to see you",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "Good to see you",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "what is the weather?",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "what is the temperature?",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "how's the weather?",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "weather",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "temperature",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "can you tell me about the weather?",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "how hot is it outside?",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "is it cold outside?",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "is it warm or chilly?",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "is it snowing?",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "is it sunny outside?",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "is it cloudly outside?",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "Sunshine, wind, fog, snow, or storm?",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "How warm or chilly is it today?",
+        "intent": "weather inquiry",
+        "entities": []
+      },
+      {
+        "text": "Can you give me a weather report?",
+        "intent": "weather inquiry",
+        "entities": []
+      }
+    ]
+  }
+}
