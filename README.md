@@ -1,2 +1,2 @@
-# ChattyBot
+# FlaskChatBot
 Flask RASANLU ChatBot
